@@ -1,0 +1,23 @@
+{
+  "name": "yahoo_search_api_url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadumasaidcodes/YAHOO_SEARCH_API_URL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadumasaidcodes/YAHOO_SEARCH_API_URL/issues"
+  },
+  "homepage": "https://github.com/fadumasaidcodes/YAHOO_SEARCH_API_URL#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
